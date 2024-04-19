@@ -1,0 +1,4 @@
+
+//to activate virtual env
+
+. myvenv\bin\Activate.ps1    
